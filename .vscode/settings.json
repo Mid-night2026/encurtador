@@ -1,0 +1,10 @@
+{
+    "github.copilot.chat.codesearch.enabled": true,
+    "github.copilot.chat.alternateGeminiModelFPrompt.enabled": true,
+    "github.copilot.chat.alternateGptPrompt.enabled": true,
+    "github.copilot.chat.anthropic.contextEditing.mode": "clear-thinking",
+    "github.copilot.chat.anthropic.tools.websearch.enabled": true,
+    "github.copilot.chat.claudeOpus5Prompt.enabled": true,
+    "github.copilot.chat.claudeSonnet5Prompt.enabled": true,
+    "github.copilot.chat.agent.autoFix": true
+}
